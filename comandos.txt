@@ -1,0 +1,3 @@
+3) chmod +x caLculadora.sh
+4) chmod 44 calculadora.sh
+5) ./calculadora.sh
