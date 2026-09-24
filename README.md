@@ -14,3 +14,7 @@ Curso Analista de Dados na EBAC
  - Abra o aplicativo Ubuntu
  - execute o arquivo:
  - python3 calculadora.py
+
+## Explicação do codigo python
+
+ - Código que recebe dois números de entrada, lhe mostra opções de somas e o resultado dos números inseridos.  
