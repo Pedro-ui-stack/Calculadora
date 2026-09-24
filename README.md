@@ -6,7 +6,7 @@ Curso Analista de Dados na EBAC
  - Abra o aplicativo Ubuntu
  - Vá na pasta do Arquvio
  - Dê a permissão da execução do arquivo:
- - chmod 644 calculadora.sh
+ - chmod 744 calculadora.sh
  - Agora execute o arquivo:
  - ./calculadora.sh
 
