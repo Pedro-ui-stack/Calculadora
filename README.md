@@ -10,7 +10,7 @@ Curso Analista de Dados na EBAC
  - Agora execute o arquivo:
  - ./calculadora.sh
 
-## Calculadora em python
+## Como executar O Arquivo calculadora.py
  - Abra o aplicativo Ubuntu
  - execute o arquivo:
  - python3 calculadora.py
